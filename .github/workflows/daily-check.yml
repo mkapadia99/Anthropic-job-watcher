@@ -2,17 +2,12 @@ name: Daily Anthropic Job Watcher
 
 on:
   schedule:
-    # 21:00 UTC = 5:00pm EDT (daylight saving, roughly Mar-Nov)
-    # 22:00 UTC = 5:00pm EST (standard time, roughly Nov-Mar)
-    # GitHub Actions cron doesn't understand DST, so both are scheduled;
-    # the script runs twice a year "off by an hour" during the transition
-    # weeks, which is harmless (worst case: one extra/missed hour of lead time).
     - cron: "0 21 * * *"
     - cron: "0 22 * * *"
-  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab to test
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed to commit the updated state.json back to the repo
+  contents: write
 
 jobs:
   check-roles:
