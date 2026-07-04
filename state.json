@@ -1,3 +1,60 @@
 {
-  "roles": []
+  "roles": [
+    {
+      "title": "Engineering Manager, Agent Prompts & Evals",
+      "team": "Engineering & Design - Product",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5159608008",
+      "why_match": "Directly aligns with the candidate's Director of Quality Engineering background. This team owns eval frameworks, system prompt pipelines, and regression-detection systems \u2014 essentially a QE/quality platform function for AI/ML systems. The role requires 8+ years in software engineering with 3+ years managing platform or infra-adjacent engineering teams, matching the candidate's 21+ years of leadership and org management depth. Strong parallel to 'Head of Quality Engineering for AI/ML systems' (priority #2)."
+    },
+    {
+      "title": "Engineering Manager, Vertical AI Products (Financial Services, Life Sciences, Healthcare)",
+      "team": "Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5140492008",
+      "why_match": "Anthropic is hiring Engineering Managers to build 0\u21921 AI products for enterprise verticals including Financial Services \u2014 a direct match to the candidate's large financial institution background and engineering leadership experience. The role involves leading teams building agentic AI products, working with model evals, and driving compliance/platform-readiness, all resonant with the candidate's profile. Maps to priority #4 (Director/VP Engineering with AI scope)."
+    },
+    {
+      "title": "Manager, Forward Deployed Engineering",
+      "team": "Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+      "why_match": "A founding leadership role to build and scale the Forward Deployed Engineering practice at Anthropic \u2014 hiring, developing a team, setting technical and operational standards, and building repeatable playbooks for enterprise AI adoption. The candidate's experience leading a ~40-person org and pivoting toward AI transformation leadership is a strong fit. Maps to priority #3 (AI Transformation / Program Lead) and #4."
+    },
+    {
+      "title": "Manager of Applied AI Architecture, Enterprise Tech (Cyber)",
+      "team": "Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197538008",
+      "why_match": "Seeks a leader with 5+ years managing solution architect teams through hypergrowth (10\u219250+ people) and hands-on AI/ML platform experience. The candidate's experience leading large engineering orgs and pivoting to AI-adjacent roles fits well. Role involves managing and mentoring a team of Applied AI Architects and driving AI adoption strategy with enterprise tech customers. Maps to priority #5 (Solutions Architect leadership-track)."
+    },
+    {
+      "title": "Manager of Applied AI Architecture, Partnerships",
+      "team": "Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5173031008",
+      "why_match": "Leads a team of Partner Solutions Architects, drives AI adoption through GSIs and cloud partners (AWS, GCP, Azure), and requires 3+ years managing pre-sales or partner-facing technical teams. The candidate's executive presence, org leadership experience (40-person org), and interest in AI-adjacent leadership map directly. Fits priority #5 (senior/leadership-track Solutions Architect or EM role focused on AI/ML)."
+    },
+    {
+      "title": "Technical Program Manager, Safeguards (Infrastructure & Evals)",
+      "team": "Safeguards (Trust & Safety)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108695008",
+      "why_match": "Safeguards Engineering owns classifiers, detection pipelines, evaluation platforms, and monitoring systems for AI safety in production \u2014 a close parallel to Quality Engineering for AI/ML systems. The TPM role drives operational health and forward momentum of this stack. The candidate's QE leadership and program management depth at scale make this a strong fit. Maps to priority #2 and #3."
+    },
+    {
+      "title": "Technical Program Manager, API Platform",
+      "team": "Software Engineering - Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5256303008",
+      "why_match": "Drives scaling and efficiency programs for Anthropic's AI API stack, working across compute, databases, networking, and inference infrastructure. Requires coordinating cross-org dependencies and influencing senior stakeholders \u2014 a natural fit for a Director-level leader with 21+ years of engineering program management. Maps to priority #3 (AI Program Lead) and #4 (engineering role with AI/ML infra scope)."
+    },
+    {
+      "title": "Technical Program Manager, Infrastructure",
+      "team": "Software Engineering - Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5111783008",
+      "why_match": "Bridges infrastructure, research, and product teams to coordinate complex programs for AI training and production systems. Includes leading AI tool integration into dev workflows. The candidate's cross-functional leadership and program management experience at a large institution aligns well. Maps to priority #3 and #4."
+    }
+  ]
 }
