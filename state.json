@@ -1,3 +1,46 @@
 {
-  "roles": []
+  "roles": [
+    {
+      "title": "Engineering Manager, Agent Prompts & Evals",
+      "team": "Product Engineering / Agents",
+      "location": "San Francisco, CA | New York City, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5159608008",
+      "why_match": "Directly maps to the candidate's Director of Quality Engineering background. The team owns eval frameworks, system prompt pipelines, and regression-detection systems for every Claude model launch \u2014 essentially the QE/quality-assurance platform for AI/ML systems. Leading this team requires engineering management experience and a quality/testing mindset applied to AI, which is the candidate's core competency and desired pivot."
+    },
+    {
+      "title": "Engineering Manager, Vertical AI Products (Multiple Roles \u2014 Financial Services, Life Sciences, Healthcare)",
+      "team": "Verticals / Product Engineering",
+      "location": "San Francisco, CA (inferred)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5140492008",
+      "why_match": "Candidate's financial-institution background is a direct match for the Financial Services vertical. Role involves building AI products 0\u21921 for specific regulated industries, requiring engineering leadership and domain expertise \u2014 well aligned with 21+ years of engineering leadership in a large financial institution and the candidate's AI transformation pivot."
+    },
+    {
+      "title": "Engineering Manager, Platform Foundations",
+      "team": "Platform Engineering",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206492008",
+      "why_match": "Aligns with Director/VP AI Platform Engineering priority. The role leads foundational platform infrastructure (multi-cloud, CI/CD, LLM product infra) at scale, explicitly calling out experience in regulated environments and infrastructure serving AI/LLM products \u2014 directly matching the candidate's large-org platform leadership background and AI-adjacent pivot."
+    },
+    {
+      "title": "Engineering Manager, Accelerator Platform",
+      "team": "Inference / ML Infrastructure",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121920008",
+      "why_match": "Fits priority #5 (senior/leadership-track AI/ML infra EM role). The team owns hardware-platform bringup and normalization for Anthropic's inference fleet; the EM will build and scale the team, set technical direction, and own the compute strategy layer \u2014 a senior platform leadership role at the intersection of ML infrastructure."
+    },
+    {
+      "title": "Engineering Manager, API Core",
+      "team": "API Platform Engineering",
+      "location": "San Francisco, CA (inferred)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5081338008",
+      "why_match": "Fits priority #4 (Director/VP Engineering with explicit AI/agent platform scope). API Core owns the hot path of the Claude API and the full request lifecycle for every inference call. Leading this team requires engineering management experience over a critical AI platform, which aligns with the candidate's large-scale platform leadership profile."
+    },
+    {
+      "title": "Head of Applied AI Architecture, Beneficial Deployments",
+      "team": "Beneficial Deployments / Applied AI",
+      "location": "New York City, NY (and global \u2014 SF, London, Bengaluru)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5192104008",
+      "why_match": "Posted July 3 2026. Fits priority #3 (AI Transformation/Program Lead) and priority #5 (senior Solutions Architect leadership). The role leads a globally distributed team of Applied AI Architects, sets vision and operating model for AI deployment, and requires 10+ years in technical leadership roles \u2014 a strong match for the candidate's senior leadership profile and AI-adjacent pivot ambitions."
+    }
+  ]
 }
